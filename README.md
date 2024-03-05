@@ -22,4 +22,4 @@ Romantic_SMY 是一个基于 wechat-bc wx 框架的项目，旨在为湘南学�
 如需更多帮助，或想要讨论更多关于该项目的详情，请提交issue或加入我们的Q群870774211。
 
 # 测试群
-![image](vximage.png)
+<img src="https://github.com/Muyan-Shen/Romantic_SMY/blob/9720f0e0867617fb11f4de8da07b946052134526/wximage.jpg" width="210px">
